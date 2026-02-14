@@ -1,4 +1,5 @@
-# ADS1001 Project 2022 Semester 1 | ICU Mortality Rates
+# ICU Mortality Rates
+### ADS1001 Data Challenges 1 | Semester 1 2022
 
 ## Introduction
 
